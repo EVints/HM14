@@ -1,0 +1,17 @@
+{
+    "name": "evgenii/packege",
+    "description": "my",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgenii Vints",
+            "email": "vintsea@gmail.com"
+        }
+    ],
+    "require": {}
+}
